@@ -38,7 +38,7 @@ play(
 )
 ```
 
-`custom_order` is None by default, which equals [0,1,2,3] in this case.
+`custom_order` is None by default, which equals to [3,2,1,0] (reverse order) in this case.
 
 `colors` should be a list of variables supported by manim or hex number strings, e.g. ['#3ec1d3', '#f6f7d7', '#ff9a00', '#ff165d'].
 
