@@ -5,11 +5,11 @@ with open("README.md", "r") as fh:
 
 setup(
     name='polybeat',
-    version='0.0.1',
-    description='Toy for polyrhythm visualization',
+    version='1.0.0',
+    description='A toy for visualizing polyrhythms',
     url='https://github.com/chunribu/polybeat/',
     author='Jian Jiang',
-    author_email='jianjiang.bio@gmail.com',
+    author_email='pccfreespace@gmail.com',
     packages=find_packages(),
     license='MIT',
     long_description=long_description,
@@ -25,5 +25,5 @@ setup(
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
     ],
-    keywords='polybeat polyrhythm PCC',
+    keywords='polybeat polyrhythm pccfs',
 )
