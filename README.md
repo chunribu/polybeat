@@ -2,6 +2,10 @@
 
 
 
+https://github.com/chunribu/polybeat/assets/57521167/1bad0cd3-3feb-4222-8fea-8398ac4c3689
+
+
+
 ## Installation
 ```shell
 # first, install manim from conda-forge channel
