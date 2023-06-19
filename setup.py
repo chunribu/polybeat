@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='polybeat',
-    version='1.0.0',
+    version='1.1.0',
     description='A toy for visualizing polyrhythms',
     url='https://github.com/chunribu/polybeat/',
     author='Jian Jiang',

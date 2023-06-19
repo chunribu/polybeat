@@ -43,6 +43,8 @@ def play(
                 for i in range(N)
             ]
             geoms = [Polygon(*v).set_stroke(colors[i],14,op) for i,v in enumerate(vs)]
+            for g in geoms: 
+                g.add_updater(lambda _,dt:None)
 
             dots = []
             for i in range(N):

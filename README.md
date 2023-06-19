@@ -27,8 +27,8 @@ play([3,4,12])
 # advanced usage
 play(
     rhythms=[3,4,6,12],
-    custom_order=None,
-    colors=[RED,YELLOW,BLUE,GREEN],
+    custom_order=[0,1,3,2],
+    # colors=[RED,YELLOW,BLUE,GREEN],
     sounds=['kick_drum','open_conga','side_stick','low_bongo'],
     volumes=[0,-2,-6,-4],
     cycle_time=1.8,
