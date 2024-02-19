@@ -16,7 +16,7 @@ setup(
     long_description_content_type="text/markdown",
     package_data={'polybeat': ['sounds/*.wav']},
     include_package_data=True,
-    install_requires=[],
+    install_requires=['manim'],
     entry_points = {},
     classifiers=[
         'Operating System :: POSIX :: Linux',
