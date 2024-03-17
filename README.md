@@ -8,11 +8,7 @@ https://github.com/chunribu/polybeat/assets/57521167/2c2e6025-2490-4b45-b54e-92f
 
 ## Installation
 ```shell
-# first, install manim from conda-forge channel
-conda install -c conda-forge manim
-
-# then install polybeat from pypi
-pip install polybeat
+conda install conda-forge::polybeat
 ```
 
 ## Usage
