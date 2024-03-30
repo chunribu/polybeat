@@ -8,7 +8,7 @@ https://github.com/chunribu/polybeat/assets/57521167/2c2e6025-2490-4b45-b54e-92f
 
 ## Installation
 
-You need install [conda](https://docs.anaconda.com/free/miniconda/miniconda-install/) first, then install polybeat from conda-forge channel.
+You need to install [conda](https://docs.anaconda.com/free/miniconda/miniconda-install/) first, then install polybeat from conda-forge channel.
 
 ```shell
 conda install conda-forge::polybeat
