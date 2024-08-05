@@ -48,3 +48,7 @@ play(
 `preview` means you want the video to auto play or not after rendering.
 
 >It's safe to use default parameters when the number of beats is 4 or less
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=chunribu/polybeat&type=Date)](https://star-history.com/#chunribu/polybeat&Date)
