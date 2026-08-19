@@ -1,3 +1,5 @@
+
+
 # Polybeat
 
 
@@ -42,6 +44,8 @@ play(
 `colors` should be a list of variables supported by manim or hex number strings, e.g. ['#3ec1d3', '#f6f7d7', '#ff9a00', '#ff165d'].
 
 `sounds` can be paths to custom audio files, or just leave it default.
+
+`volumes` is a list of volume values, one for each rhythm.
 
 `cycle_time` has an effect on speed.
 
